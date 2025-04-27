@@ -1,4 +1,4 @@
-# comfyui_yxy_encrypt
+
 ## ComfyUI工作流卫士，本项目旨在提供对工作流原创作品内容的保护
 ### 加密前效果 ###
 ![image](https://github.com/user-attachments/assets/6688e796-9858-4a53-a60d-f84189a0f5e1)
