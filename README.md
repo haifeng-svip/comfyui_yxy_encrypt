@@ -16,3 +16,6 @@
 ### 使用方法 ###
 1. 目前插件支持python310和python312，用户需根据自己的环境版本选择对应的版本  
 2. 将下载的的压缩包解压到custom_nodes目录，然后安装必要的依赖requirements.txt
+
+### 加密使用教程 ###
+https://www.bilibili.com/video/BV1vSAfesEzX/
