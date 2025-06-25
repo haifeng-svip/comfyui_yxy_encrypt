@@ -18,7 +18,7 @@
 2. 将下载的的压缩包解压到custom_nodes目录，然后安装必要的依赖requirements.txt
 
 ### 加密使用教程 ###
-<a href="https://www.bilibili.com/video/BV1vSAfesEzX" target="_blank" rel="noopener noreferrer">查看教程</a>
+<a href="https://www.bilibili.com/video/BV1zvKJzQEiJ" target="_blank" rel="noopener noreferrer">查看教程</a>
 
 ### ComfyUI工作流加密系统 ###
 <a href="https://comfyui.aigc-top.cn/admin" target="_blank" rel="noopener noreferrer">ComfyUI系统</a>
